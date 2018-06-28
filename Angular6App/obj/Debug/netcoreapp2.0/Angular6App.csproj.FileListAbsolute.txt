@@ -1,0 +1,12 @@
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\bin\Debug\netcoreapp2.0\Angular6App.deps.json
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\bin\Debug\netcoreapp2.0\Angular6App.runtimeconfig.json
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\bin\Debug\netcoreapp2.0\Angular6App.runtimeconfig.dev.json
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\bin\Debug\netcoreapp2.0\Angular6App.dll
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\bin\Debug\netcoreapp2.0\Angular6App.pdb
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\Angular6App.csprojAssemblyReference.cache
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\Angular6App.csproj.CoreCompileInputs.cache
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\Angular6App.AssemblyInfoInputs.cache
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\Angular6App.AssemblyInfo.cs
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\Angular6App.dll
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\Angular6App.pdb
+C:\Users\shoaib.TRIBECH0\source\repos\Angular6App\Angular6App\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
